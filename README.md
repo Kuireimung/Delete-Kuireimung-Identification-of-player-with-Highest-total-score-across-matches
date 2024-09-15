@@ -1,4 +1,4 @@
-# Delete-Kuireimung-Identification-of-player-with-Highest-total-score-across-matches
+# Kuireimung-Identification-of-player-with-Highest-total-score-across-matches
 
 # OrangeCap: Identify the Player with the Highest Total Score
 ## Introduction
